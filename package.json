@@ -26,12 +26,12 @@
   },
   "homepage": "https://github.com/nknapp/media-mime-detect",
   "devDependencies": {
-    "nodeunit": "^0.9.0",
+    "nodeunit": "^0.10.2",
     "rimraf": "^2.2.8",
     "tempfile": "^1.1.0",
     "video-testdata-loader": "^1.0.0"
   },
   "dependencies": {
-    "stream-mmmagic": "^0.3.0"
+    "stream-mmmagic": "^1.1.0"
   }
 }
